@@ -42,7 +42,7 @@ version = "0.24"
 features = ["gif"]
 
 [patch.crates-io]
-iced = { git = "https://github.com/squidowl/iced", rev = "8d458d2495f79cc2c90b31a2997139a46e5c0ae4" }
-iced_widget = { git = "https://github.com/squidowl/iced", rev = "8d458d2495f79cc2c90b31a2997139a46e5c0ae4" }
-iced_futures = { git = "https://github.com/squidowl/iced", rev = "8d458d2495f79cc2c90b31a2997139a46e5c0ae4" }
-iced_runtime = { git = "https://github.com/squidowl/iced", rev = "8d458d2495f79cc2c90b31a2997139a46e5c0ae4" }
+iced = { git = "https://github.com/squidowl/iced", rev = "de8164b9aed4f4bfa88c0458e4076a37be6496cc" }
+iced_widget = { git = "https://github.com/squidowl/iced", rev = "de8164b9aed4f4bfa88c0458e4076a37be6496cc" }
+iced_futures = { git = "https://github.com/squidowl/iced", rev = "de8164b9aed4f4bfa88c0458e4076a37be6496cc" }
+iced_runtime = { git = "https://github.com/squidowl/iced", rev = "de8164b9aed4f4bfa88c0458e4076a37be6496cc" }
